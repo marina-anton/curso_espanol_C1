@@ -32,7 +32,7 @@ Público objetivo: profesionales de negocios, RR. HH., comunicación corporati
 - [Ejercicios en PDF](Ejercicios)
 - [Narrativa interactiva](Narrativa_RenPy)
 - [Proyecto Final](Lecciones/ProyectoFinal.md)
-- [Anexos](Anexos/Anexos.epub)
+- [Anexos](/Anexos/README.md)
 
 ---
 
