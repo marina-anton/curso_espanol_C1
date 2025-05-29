@@ -1,5 +1,5 @@
 - [Inicio](README.md)
-- [Presentación del curso]((https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Presentacion.html)
+- [Presentación del curso](https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Presentacion.html)
 - [Lecciones](/Lecciones/README.md)
 - [Ejercicios PDF](/Ejercicios/README.md)
 - [Narrativa interactiva](/Narrativa_Renpy/README.md)
