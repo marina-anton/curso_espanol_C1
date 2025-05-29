@@ -4,13 +4,13 @@ El proyecto final consiste en dos entregas complementarias:
 1. **Vídeo** 🎥: Presentación oral persuasiva de una propuesta empresarial.  
 2. **Documento escrito** 📄: Informe de la misma propuesta, acompañado de una infografía.
 
+**Duración estimada**: 60 minutos.
 
 ## 1. Objetivos 🎯
 
 - Desarrollar habilidades de comunicación oral en tono persuasivo, propio del ámbito empresarial.  
 - Aplicar estrategias de diseño y maquetación de información visual en un documento escrito.  
 - Integrar coherentemente los dos formatos (vídeo y escrito) para reforzar el mensaje de la propuesta.
-
 
 ## 2. Entregas y formato 📋
 
