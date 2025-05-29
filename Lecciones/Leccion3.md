@@ -90,7 +90,7 @@
 
 ## 🎉 ¡Enhorabuena!
 Has completado la Lección 3: *Negociación y argumentación*.
-Antes de continuar al proyecto final, 
+Antes de continuar al proyecto final, accede a la [narrativa interactiva]().
 ¡Nos vemos en el Proyecto Final! 🚀  
 
 ![](img/felicidades.gif)
