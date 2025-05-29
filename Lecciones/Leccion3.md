@@ -83,7 +83,7 @@
 ---
 
 ## 📚 Recursos extra
-- 📄 **Ejercicios prácticos**: [Ejercicios Lección 3](/Ejercicios/Ejercicios3.pdf)  
+- 📄 **Ejercicios prácticos**: [Ejercicios PDF](/Ejercicios/Ejercicios3.pdf)  
 - 📚 **[Anexo EPUB](Anexos.epub)**: Glosario ampliado con términos de negociación y argumentación. 
 
 ---
