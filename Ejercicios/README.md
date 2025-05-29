@@ -16,4 +16,4 @@ Puedes consultar aquí las **soluciones**:
 - 📄 **[Soluciones Lección 2](https://github.com/marina-anton/curso_espanol_C1/raw/main/Ejercicios/Soluciones2.pdf)**
 - 📄 **[Soluciones Lección 3](https://github.com/marina-anton/curso_espanol_C1/raw/main/Ejercicios/Soluciones3.pdf)**
 
-➡️ Regresa al menú lateral para revisar la lección correspondiente o avanza al **[Proyecto Final](/Lecciones/ProyectoFinal.md)** cuando completes todos los ejercicios.
+➡️ Regresa al menú lateral para revisar la lección correspondiente o avanza al **[Proyecto Final](/Lecciones/ProyectoFinal.md)** cuando completes todos los ejercicios y la [narrativa interactiva]().
