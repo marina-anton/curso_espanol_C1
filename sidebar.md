@@ -1,6 +1,6 @@
 - [Inicio](README.md)
 - [Presentación del curso](/Presentación/Presentacion.html)
-- [Lecciones](/Lecciones)
+- [Lecciones](/Lecciones/README.md)
 - [Ejercicios PDF](/Ejercicios)
 - [Narrativa interactiva](/Narrativa_Renpy/index.html)
 - [Proyecto Final](/Lecciones/ProyectoFinal.md)
