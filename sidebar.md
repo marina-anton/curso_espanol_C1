@@ -3,7 +3,10 @@
 - [Lección 1](Lecciones/Leccion1.md)
 - [Lección 2](Lecciones/Leccion2.md)
 - [Lección 3](https://github.com/marina-anton/curso_espanol_C1.github.io/blob/main/Lecciones/Leccion3.md)
-- [Ejercicios en PDF](Ejercicios)
-- [Narrativa interactiva](Narrativa_RenPy)
+- Ejercicios en PDF:
+-   [Ejercicios Lección 1](Ejercicios/Ejercicios1.pdf)
+-   [Ejercicios Lección 2](Ejercicios/Ejercicios2.pdf)
+-   [Ejercicios Lección 3](Ejercicios/Ejercicios3.pdf)
+- [Narrativa interactiva](Narrativa_Renpy/index.html)
 - [Proyecto Final](Lecciones/ProyectoFinal.md)
 - [Anexos](Anexos.epub)
