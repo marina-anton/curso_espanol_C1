@@ -1,23 +1,68 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
+  <title>Español Profesional: Comunica, Persuade y Convence</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Curso de Español Profesional C1: Estrategias de persuasión, condicionales avanzadas, negociación y argumentación." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Español Profesional</title>
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+  <link rel="manifest" href="images/site.webmanifest">
+
+  <!-- Docsify Theme -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
+  <style>
+    body {
+      background-color: #F7F7FA;
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+
+    #app {
+      background-color: #FFFFFF;
+      padding: 2rem;
+      border-radius: 1rem;
+      max-width: 960px;
+      margin: 2rem auto;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    a {
+      color: #2C3E50 !important;
+      text-decoration: none !important;
+    }
+
+    a:hover {
+      color: #a03475 !important;
+      text-decoration: underline !important;
+    }
+
+    h1, h2, h3 {
+      color: #2C3E50;
+    }
+  </style>
 </head>
+
 <body>
   <div id="app"></div>
 
   <script>
     window.$docsify = {
-      name: 'Español Profesional',
-      repo: 'https://github.com/marina-anton/curso_espanol_C1.github.io',
+      name: 'Español Profesional: Comunica, Persuade y Convence',
+      repo: 'https://github.com/marina-anton/curso_espanol_C1.github.io.git',
       relativePath: true,
-      loadSidebar: true,
-      auto2top: true
+      auto2top: true,
+      loadSidebar: '_sidebar.md',
+      homepage: 'presentacion.md'
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
+
 </html>
