@@ -84,12 +84,13 @@
 
 ## 📚 Recursos extra
 - 📄 **Ejercicios prácticos**: [Ejercicios3.pdf](Ejercicios3.pdf)  
-- 📚 **Anexo EPUB**: Glosario ampliado con términos de negociación y argumentación.  
+- 📚 **Anexo EPUB**: Glosario ampliado con términos de negociación y argumentación. 
 
 ---
 
 ## 🎉 ¡Enhorabuena!
-Has completado la Lección 3: *Negociación y argumentación*.  
+Has completado la Lección 3: *Negociación y argumentación*.
+Antes de continuar al proyecto final, 
 ¡Nos vemos en el Proyecto Final! 🚀  
 
 ![](img/felicidades.gif)
