@@ -1,5 +1,5 @@
 - [Inicio](README.md)
-- [Presentación del curso](/Presentación/Presentacion.html)
+- [Presentación del curso](Presentacion.html)
 - [Lecciones](/Lecciones/README.md)
 - [Ejercicios PDF](/Ejercicios/README.md)
 - [Narrativa interactiva](/Narrativa_Renpy/README.md)
