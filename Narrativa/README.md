@@ -12,4 +12,4 @@ Guiarte paso a paso en la definición de tu propuesta, el diseño de un vídeo p
 
 ---
 
-¡Listo para inspirarte y crear tu mejor [Proyecto Final](https://github.com/marina-anton/curso_espanol_C1/raw/main/Narrativa/Narrativa.html))! 🌟  
+¡Listo para inspirarte y crear tu mejor [Proyecto Final](/Narrativa/Narrativa.html))! 🌟  
