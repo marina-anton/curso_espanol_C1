@@ -2,6 +2,6 @@
 - [Presentación del curso](/presentacion/README.md) 🎞️
 - [Lecciones](/Lecciones/README.md) 📚
 - [Ejercicios PDF](/Ejercicios/README.md) 📄
-- [Narrativa interactiva](/twine/README.mdl) 💻
+- [Narrativa interactiva](/twine/README.md) 💻
 - [Proyecto Final](/Lecciones/ProyectoFinal.md) 🚀
 - [Anexos](/Anexos/README.md) 📒
