@@ -8,6 +8,7 @@
 
 ![](lecciones/img/condicionales.png)  
 
+**Duración estimada**: 30-40 minutos.
 ---
 
 ## 2.1 🔄 Repaso de las estructuras condicionales
