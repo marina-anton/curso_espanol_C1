@@ -6,9 +6,10 @@
 - 🔗 **Integrar** condicionales en planes, propuestas y comunicaciones formales e informales.  
 - 💡 **Desarrollar** autonomía en la expresión escrita y oral mediante condicionales avanzados.
 
+**Duración estimada**: 30-40 minutos.
+
 ![](lecciones/img/condicionales.png)  
 
-**Duración estimada**: 30-40 minutos.
 ---
 
 ## 2.1 🔄 Repaso de las estructuras condicionales
