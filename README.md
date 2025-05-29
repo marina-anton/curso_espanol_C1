@@ -27,12 +27,12 @@ Público objetivo: profesionales de negocios, RR. HH., comunicación corporati
 ## 📂 Contenidos del curso
 - [Presentación del curso](Presentación/Presentacion del curso.html)
 - [Lección 1](Lecciones/Leccion1.md)
-- [Lección 2]()
-- [Lección 3]()
-- [Ejercicios en PDF]()
+- [Lección 2](Lecciones/Leccion2.md)
+- [Lección 3](https://github.com/marina-anton/curso_espanol_C1.github.io/blob/main/Lecciones/Leccion3.md)
+- [Ejercicios en PDF](Ejercicios)
 - [Narrativa interactiva](Narrativa_RenPy)
-- [Proyecto Final]
-- [Anexos] (Anexos.epub)
+- [Proyecto Final](Lecciones/ProyectoFinal.md)
+- [Anexos](Anexos.epub)
 
 ---
 
