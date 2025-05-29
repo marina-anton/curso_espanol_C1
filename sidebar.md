@@ -1,7 +1,7 @@
 - [Inicio](README.md)
 - [Presentación del curso](Presentación/Presentacion.html)
 - [Lección 1](Lecciones/Leccion1.md)
--[Ejercicios Lección 1](Ejercicios/Ejercicios1.pdf)
+- [Ejercicios Lección 1](Ejercicios/Ejercicios1.pdf)
 - [Lección 2](Lecciones/Leccion2.md)
 - [Ejercicios Lección 2](Ejercicios/Ejercicios2.pdf)
 - [Lección 3](Lecciones/Leccion3.md)
