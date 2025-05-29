@@ -83,8 +83,8 @@
 ---
 
 ## 📚 Recursos extra
-- 📄 **Ejercicios prácticos**: [Ejercicios PDF](/Ejercicios/Ejercicios3.pdf)  
-- 📚 **[Anexo EPUB](/Anexos.epub)**: Glosario ampliado con términos de negociación y argumentación. 
+- 📄 **Ejercicios prácticos**: [Ejercicios PDF](https://github.com/marina-anton/curso_espanol_C1/blob/raw/Ejercicios/Ejercicios3.pdf) 
+- 📚 **[Anexo EPUB](https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Anexos/Anexos.epub)**: Glosario ampliado con términos de negociación y argumentación. 
 
 ---
 
