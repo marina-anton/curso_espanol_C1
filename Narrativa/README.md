@@ -7,7 +7,7 @@ Guiarte paso a paso en la definición de tu propuesta, el diseño de un vídeo p
 
 ## ▶️ Cómo usarlo
 
-1. Abre el archivo [Narrativa Interactiva]().
+1. Abre el archivo [Narrativa Interactiva](Narrativa/Narrativa Final.html).
 2. Sigue las opciones en pantalla para explorar todas las ramas de la simulación.
 
 ---
