@@ -1,6 +1,6 @@
 # Anexos del Curso 📄
 
-Aquí puedes descargar los ***[anexos](https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Anexos/Anexos.epub))***, un archivo contiene materiales de referencia complementarios para el curso **Español Profesional: Comunica, Persuade y Convence (C1)**. Está diseñado para servir como apoyo rápido y consulta durante las actividades y evaluaciones.
+Aquí puedes descargar los ***[anexos](https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Anexos/Anexos.epub)***, un archivo contiene materiales de referencia complementarios para el curso **Español Profesional: Comunica, Persuade y Convence (C1)**. Está diseñado para servir como apoyo rápido y consulta durante las actividades y evaluaciones.
 
 ---
 
