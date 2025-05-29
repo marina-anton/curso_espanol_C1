@@ -18,4 +18,4 @@ Cada lección incluye:
 
 > 💡 **Consejo:** avanza en orden 1 → 2 → 3 y dedica entre 30-40 minutos por lección para dominar los contenidos.
 
-✨ Elige la lección desde el menú lateral o haz clic en la tabla, en **Recursos**, para empezar.
+✨ Elige en la tabla, desde **Recursos**, para empezar.
