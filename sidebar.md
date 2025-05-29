@@ -1,7 +1,7 @@
 - [Inicio](README.md)
-- <a href="https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Presentacion.html" target="_blank">Presentación del curso</a>
+- [Presentación del curso](/Presentación/README.md)
 - [Lecciones](/Lecciones/README.md)
 - [Ejercicios PDF](/Ejercicios/README.md)
-- [Narrativa interactiva](/Narrativa_Renpy/README.md)
+- [Narrativa interactiva](/Narrativa/README.md)
 - [Proyecto Final](/Lecciones/ProyectoFinal.md)
 - [Anexos](/Anexos/README.md)
