@@ -6,8 +6,9 @@
 - 🏗️ **Integrar** estructuras concesivas, condicionales B₁/B₂ y conectores formales para argumentar con precisión.  
 - ✍️ **Manejar** perífrasis verbales, pasiva refleja e impersonalidad para aportar objetividad y cortesía. 
 
-![](img/negociacion.png)
+**Duración estimada**: 30-40 minutos.
 
+![](img/negociacion.png)
 ---
 
 ## 3.1 Léxico de acuerdos, conflictos y soluciones ⚖️
