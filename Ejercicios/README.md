@@ -10,4 +10,10 @@ Estas fichas descargables refuerzan lo aprendido en cada lección mediante activ
 
 > ⚙️ **Modo de uso**: descarga el PDF, trabaja sin mirar la clave y comprueba tus respuestas al final.
 
+Puedes consultar aquí las **soluciones**:
+
+- 📄 **[Soluciones Lección 1](/Ejercicios/Soluciones1.pdf)** 
+- 📄 **[Soluciones Lección 2](/Ejercicios/Soluciones2.pdf)**
+- 📄 **[Soluciones Lección 3](/Ejercicios/Soluciones3.pdf)**
+
 ➡️ Regresa al menú lateral para revisar la lección correspondiente o avanza al **[Proyecto Final](/Lecciones/ProyectoFinal.md)** cuando completes todos los ejercicios.
