@@ -10,7 +10,7 @@ Esta breve presentación interactiva resume los objetivos, la estructura y los r
 
 Navega con ⬅️ las flechas ➡️ o usa F para pantalla completa. Pulsa Esc para el modo vista general.
 
-Accede 👉 **<a href=/curso_espanol_C1/presentacion/presentacion.html':target=_blank'>aquí</a>** a la presentación.
+Accede 👉 **<a href="/curso_espanol_C1/presentacion/Presentacion.html" ':target=_blank'>aquí</a>** a la presentación.
 
-<iframe src="/curso_espanol_C1/presentacion/index.html"
+<iframe src="/curso_espanol_C1/presentacion/Presentacion.html"
         width="100%" height="600" style="border:none;"></iframe>
