@@ -25,7 +25,7 @@ Público objetivo: profesionales de negocios, RR. HH., comunicación corporati
 ---
 
 ## 📂 Contenidos del curso
-- [Presentación del curso](/Presentación/Presentacion.html)
+- [Presentación del curso](Presentacion.html)
 - [Lecciones](/Lecciones/README.md)
 - [Ejercicios PDF](/Ejercicios/README.md)
 - [Narrativa interactiva](/Narrativa_Renpy/README.md)
