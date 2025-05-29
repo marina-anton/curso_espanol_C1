@@ -12,13 +12,9 @@ Este repositorio aloja todos los materiales del curso, organizados en lecciones 
 
 Nivel: C1 (MCER)
 
-Duración recomendada: 30–40 h (3 módulos + proyecto final)
+Duración recomendada: 3 h (3 módulos + proyecto final)
 
 Público objetivo: profesionales de negocios, RR. HH., comunicación corporativa y consultoría.
-
----
-
-## Objetivos del curso
 
 ---
 
