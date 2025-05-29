@@ -16,11 +16,7 @@ Este archivo **anexos.epub** contiene materiales de referencia complementarios p
    - **Estructuras concesivas**, **pasiva refleja** e **impersonalidad** para argumentar con objetividad.
 
 3. **Fichas de vocabulario** 💼 
-   Tarjetas de palabras y expresiones con ejemplos de uso contextualizado, organizadas por módulo:  
-   - Módulo 1: Persuasión en el ámbito profesional.  
-   - Módulo 2: Condicionales avanzadas para el discurso profesional.  
-   - Módulo 3: Negociación y argumentación.
-
+   Tarjetas de palabras y expresiones con ejemplos de uso contextualizado, organizadas por lección.
 ---
 
 ## Uso recomendado 🔍
