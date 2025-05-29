@@ -10,4 +10,4 @@ Esta breve presentación interactiva resume los objetivos, la estructura y los r
 
 Navega con ⬅️ las flechas ➡️ o usa F para pantalla completa. Pulsa Esc para el modo vista general.
 
-Accede 👉 para [🎞️ ver la presentación](/presentacion/Presentacion.html ':target=_blank').
+Accede 👉 para **<a href="Presentacion.html">🎞️ ver la presentación</a>**.
