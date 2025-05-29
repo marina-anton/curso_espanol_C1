@@ -10,11 +10,13 @@ Curso C1 de español profesional que desarrolla estrategias de persuasión, cond
 ## 📚 Descripción
 Este repositorio aloja todos los materiales del curso, organizados en lecciones autocontenidas y ejercicios prácticos. El objetivo es facilitar el auto‑aprendizaje guiado y la consulta rápida desde cualquier dispositivo, sin depender de un LMS externo.
 
-Nivel: C1 (MCER)
+**Nivel**: C1 (MCER)
 
-Duración recomendada: 3 h (3 módulos + proyecto final)
+**Requisitos**: Es necesario haber adquirido el nivel B2 (MCER) en español o ser hispanohablante para realizar este curso.
 
-Público objetivo: profesionales de negocios, RR. HH., comunicación corporativa y consultoría.
+**Duración recomendada**: 3 h (3 módulos + proyecto final)
+
+**Público objetivo**: estudiantes de lengua español, estudiantes de español para los negocioas, profesionales de negocios, RR. HH., comunicación corporativa y consultoría.
 
 ---
 
