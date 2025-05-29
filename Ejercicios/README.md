@@ -12,7 +12,7 @@ Estas fichas descargables refuerzan lo aprendido en cada lección mediante activ
 
 Puedes consultar aquí las **soluciones**:
 
-- 📄 **[Soluciones Lección 1](/Ejercicios/Soluciones1.pdf)** 
+<li>📄<a href=/Ejercicios/Soluciones1.pdf>Soluciones Lección 1</li>
 - 📄 **[Soluciones Lección 2](/Ejercicios/Soluciones2.pdf)**
 - 📄 **[Soluciones Lección 3](/Ejercicios/Soluciones3.pdf)**
 
