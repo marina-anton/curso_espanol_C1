@@ -110,8 +110,8 @@ Estas son las reglas, pero cuando hablamos, a veces, necesitamos romperlas para 
 
 ## 📚 Recursos extra
 
-- 📝 **Ejercicios prácticos**: [Ejercicios PDF](Ejercicios2.pdf)    
-- 📖 **Anexo en EPUB**: Conjugaciones de todos los tiempos del indicativo, subjuntivo e imperativo.
+- 📝 **Ejercicios prácticos**: [Ejercicios PDF](/Ejercicios/Ejercicios2.pdf)    
+- 📖 **[Anexo en EPUB](/Anexos.epub)**: Conjugaciones de todos los tiempos del indicativo, subjuntivo e imperativo.
 
 ---
 
