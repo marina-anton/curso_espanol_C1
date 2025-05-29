@@ -8,4 +8,4 @@
 - [Ejercicios Lección 3](Ejercicios/Ejercicios3.pdf)
 - [Narrativa interactiva](Narrativa_Renpy/index.html)
 - [Proyecto Final](Lecciones/ProyectoFinal.md)
-- [Anexos](Anexos.epub)
+- [Anexos](Anexos/Anexos.epub)
