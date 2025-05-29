@@ -1,0 +1,144 @@
+<style>
+
+.slides {
+    font-size: 0.65em;
+  }
+  
+  .reveal h1 {
+    font-size: 1.4em;
+    font-family: serif;
+    text-transform: uppercase;
+    text-align: center;
+    background: none !important;
+  -webkit-background-clip: unset !important;
+  -webkit-text-fill-color: initial !important;
+  background-clip: unset !important;
+  color: #eec53f;
+  }
+  
+  .reveal h2 {
+    font-size: 1em;
+    font-family: serif;
+    text-align: center;
+    background: none !important;
+  -webkit-background-clip: unset !important;
+  -webkit-text-fill-color: initial !important;
+  background-clip: unset !important;
+  color: #eb7895;
+  }
+  
+  .reveal h3 {
+    font-size: 0.8em;
+    font-family: inherit;
+    font-weight: bold;
+    text-align: left;
+    background: none !important;
+  -webkit-background-clip: unset !important;
+  -webkit-text-fill-color: initial !important;
+  background-clip: unset !important;
+  color: #a7ee9e;
+  }
+  
+  .reveal h3::marker {
+    font-size: 0.8em;
+  }
+  
+  .reveal p {
+    font-size: 0.8em;
+    background: linear-gradient(
+    90deg,
+    #c2e9fb 50%,
+    #fbc2eb 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+  }
+
+  .reveal li {
+    font-size: 0.8em;
+    color: 
+    #c2e9fb;
+  }
+
+  .reveal section.two-col {
+  column-count: 2;
+  column-gap: 3em;
+}
+  
+  img {
+    max-height: 100px;
+  }
+
+  .reveal a.button:hover {
+    transform: scale(1.1);
+    transition: transform .3s ease;
+  }
+
+  .reveal section.spacing> ul > li {
+    margin-bottom: 1em;
+  }
+
+  table {
+    font-size: 0.7em; 
+    max-width: 100%; 
+    margin: 0 auto; 
+}
+
+  table th, table td {
+    padding: 50px;
+}
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-container table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  font-size: 0.75em;
+  margin-bottom: 1.5em;
+}
+
+.table-container th,
+  .table-container td {
+    padding: 0.75em;
+    word-wrap: break-word;
+    text-align: left;
+  }
+
+.table-container th {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.hint-down p {
+  font-size: 30px;
+  background: linear-gradient(
+    90deg,
+    #fd9ded 0%,
+    #9eddfd 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent; 
+  font-weight: bold;
+  text-align: center;
+  margin-top: 6em;          
+  margin-bottom: 1em;      
+  width: 100%;
+  animation: bounce 1s infinite alternate;
+  position: relative;
+  bottom: 20vh;           
+}
+
+@keyframes bounce {
+  from { transform: translateY(0); }
+  to   { transform: translateY(8px); }
+}
+
+</style>
