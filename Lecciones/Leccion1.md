@@ -7,6 +7,8 @@
 - ✍️ **Comprender** el uso del subjuntivo en recomendaciones y sugerencias.  
 - 🗣️ **Practicar** en producción oral y escrita estructuras de nivel C1: imperativos, fórmulas de cortesía y construcciones en subjuntivo.
 
+**Duración estimada**: 30-40 minutos.
+
 ## 1.1 Léxico clave de economía empresarial y financiación 💰
 
 ![](img/economia.jpg)
