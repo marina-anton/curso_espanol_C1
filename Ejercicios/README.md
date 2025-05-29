@@ -4,16 +4,16 @@ Estas fichas descargables refuerzan lo aprendido en cada lección mediante activ
 
 | PDF | Lección asociada | Contenido principal | Duración estimada |
 |-----|------------------|--------------------|-------------------|
-| 📄 **[Ejercicios Lección 1](Ejercicios1.pdf)** | Persuasión en el ámbito profesional | Emparejar términos, completar frases, transformar oraciones y redacción breve sobre llamadas a la acción. | 45 – 60 min |
-| 📄 **[Ejercicios Lección 2](/Ejercicios/Ejercicios2.pdf)** | Condicionales avanzadas | Clasificación de tipos, “rupturas de norma”, detección de errores y redacción con nexos sin *si*. | 60 – 75 min |
-| 📄 **[Ejercicios Lección 3](/Ejercicios/Ejercicios3.pdf)** | Negociación y argumentación | Léxico de acuerdos, funciones discursivas, estructuras concesivas y redacción negociadora. | 45 – 60 min |
+| 📄 **[Ejercicios Lección 1](https://github.com/marina-anton/curso_espanol_C1/blob/main/Ejercicios/Ejercicios1.pdf)** | Persuasión en el ámbito profesional | Emparejar términos, completar frases, transformar oraciones y redacción breve sobre llamadas a la acción. | 45 – 60 min |
+| 📄 **[Ejercicios Lección 2](https://github.com/marina-anton/curso_espanol_C1/blob/main/Ejercicios/Ejercicios2.pdf)** | Condicionales avanzadas | Clasificación de tipos, “rupturas de norma”, detección de errores y redacción con nexos sin *si*. | 60 – 75 min |
+| 📄 **[Ejercicios Lección 3](https://github.com/marina-anton/curso_espanol_C1/blob/main/Ejercicios/Ejercicios3.pdf)** | Negociación y argumentación | Léxico de acuerdos, funciones discursivas, estructuras concesivas y redacción negociadora. | 45 – 60 min |
 
 > ⚙️ **Modo de uso**: descarga el PDF, trabaja sin mirar la clave y comprueba tus respuestas al final.
 
 Puedes consultar aquí las **soluciones**:
 
-<li>📄<a href=/Ejercicios/Soluciones1.pdf>Soluciones Lección 1</li>
-- 📄 **[Soluciones Lección 2](/Ejercicios/Soluciones2.pdf)**
-- 📄 **[Soluciones Lección 3](/Ejercicios/Soluciones3.pdf)**
+- 📄 **[Soluciones Lección 1](https://github.com/marina-anton/curso_espanol_C1/blob/main/Ejercicios/Soluciones1.pdf)**
+- 📄 **[Soluciones Lección 2](https://github.com/marina-anton/curso_espanol_C1/blob/main/Ejercicios/Soluciones2.pdf)**
+- 📄 **[Soluciones Lección 3](https://github.com/marina-anton/curso_espanol_C1/blob/main/Ejercicios/Soluciones3.pdf)**
 
 ➡️ Regresa al menú lateral para revisar la lección correspondiente o avanza al **[Proyecto Final](/Lecciones/ProyectoFinal.md)** cuando completes todos los ejercicios.
