@@ -7,9 +7,9 @@ Guiarte paso a paso en la definición de tu propuesta, el diseño de un vídeo p
 
 ## ▶️ Cómo usarlo
 
-1. Abre la <a href="Narrativa.html">narrativa</a>.
+1. Accede a la **<a href="Narrativa.html">narrativa</a>**.
 2. Sigue las opciones en pantalla para explorar todas las ramas de la simulación.
 
 ---
 
-¡Listo para inspirarte y crear tu mejor [Proyecto Final](/Narrativa.html)! 🌟  
+¡Listo para inspirarte y crear tu mejor [Proyecto Final](/Lecciones/ProyectoFinal.md)! 🌟  
