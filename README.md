@@ -30,7 +30,7 @@ Público objetivo: profesionales de negocios, RR. HH., comunicación corporati
 
 ## ©️ Autoría
 - Creadora: Marina Antón Villegas
-- Curso: Producción de Producción de Materiales Educativos Digitales
+- Curso: Producción de Materiales Educativos Digitales
 - Titulación: Máster en Lingüística y Tecnologías
 - Universidad: Universidad Complutense de Madrid
 
