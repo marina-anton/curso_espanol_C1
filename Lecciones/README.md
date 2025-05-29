@@ -6,7 +6,7 @@
 |----|--------|----------------|----------|
 | 1️⃣ | **Persuasión en el ámbito profesional** | Vocabulario comercial, funciones persuasivas y subjuntivo en recomendaciones. | [Lección 1](/Lecciones/Leccion1.md) |
 | 2️⃣ | **Condicionales avanzadas** | Condicionales reales, posibles, irreales y “rupturas” para matizar certeza y tiempo. | [Lección 2](/Lecciones/Leccion2.md) |
-| 3️⃣ | **Negociación y argumentación** | Léxico de acuerdos/conflictos, concesivas y pasiva refleja para debatir. | [Lección 3](/Lecciones/Leccion1.md) |
+| 3️⃣ | **Negociación y argumentación** | Léxico de acuerdos/conflictos, concesivas y pasiva refleja para debatir. | [Lección 3](/Lecciones/Leccion3.md) |
 
 Cada lección incluye:
 
