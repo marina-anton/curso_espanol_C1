@@ -8,7 +8,7 @@
 
 **Duración estimada**: 30-40 minutos.
 
-![](lecciones/img/condicionales.png)  
+![](Lecciones/img/condicionales.png)  
 
 ---
 
