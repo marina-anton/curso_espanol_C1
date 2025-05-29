@@ -116,7 +116,7 @@
 
 ## 📚 Recursos extra
 
-- 📝 **Ejercicios prácticos**: [Ejercicios PDF](./Ejercicios1.pdf)    
+- 📝 **Ejercicios prácticos**: [Ejercicios PDF](Ejercicios/Ejercicios1.pdf)    
 - 📖 **Anexo en EPUB**: Glosario ampliado con términos, funciones y conectores.  
 
 ---
