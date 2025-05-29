@@ -116,8 +116,8 @@
 
 ## 📚 Recursos extra
 
-- 📝 **Ejercicios prácticos**: [Ejercicios PDF](/Ejercicios/Ejercicios1.pdf)    
-- 📖 **[Anexo en EPUB](/Anexos.epub)**: Glosario ampliado con términos, funciones y conectores.  
+- 📝 **Ejercicios prácticos**: [Ejercicios PDF](https://github.com/marina-anton/curso_espanol_C1/raw/main/Ejercicios/Ejercicios1.pdf)  
+- 📖 **[Anexo en EPUB](https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Anexos/Anexos.epub)**: Glosario ampliado con términos, funciones y conectores.  
 
 ---
 
