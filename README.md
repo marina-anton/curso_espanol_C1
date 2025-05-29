@@ -23,9 +23,10 @@ Público objetivo: profesionales de negocios, RR. HH., comunicación corporati
 <a href="https://github.com/marina-anton/curso_espanol_C1/raw/refs/heads/main/Presentacion.html" target="_blank">Descarga aquí la presentación del curso</a>
 
 ## 📂 Contenidos del curso
+- [Presentación del curso](/Presentación/README.md)
 - [Lecciones](/Lecciones/README.md)
 - [Ejercicios PDF](/Ejercicios/README.md)
-- [Narrativa interactiva](/Narrativa_Renpy/README.md)
+- [Narrativa interactiva](/Narrativa/README.md)
 - [Proyecto Final](/Lecciones/ProyectoFinal.md)
 - [Anexos](/Anexos/README.md)
 
