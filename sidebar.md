@@ -2,6 +2,6 @@
 - [Presentación del curso](/presentacion/README.md)
 - [Lecciones](/Lecciones/README.md)
 - [Ejercicios PDF](/Ejercicios/README.md)
-- [Narrativa interactiva](/narrativa/README.md)
+- [Narrativa interactiva](/Narrativa/README.md)
 - [Proyecto Final](/Lecciones/ProyectoFinal.md)
 - [Anexos](/Anexos/README.md)
