@@ -1,6 +1,6 @@
 # Anexos del Curso 📄
 
-Este archivo **anexos.epub** contiene materiales de referencia complementarios para el curso **Español Profesional: Comunica, Persuade y Convence (C1)**. Está diseñado para servir como apoyo rápido y consulta durante las actividades y evaluaciones.
+Aquí puedes descargar los **[anexos](Anexos/Anexos.epub)**, un archivo contiene materiales de referencia complementarios para el curso **Español Profesional: Comunica, Persuade y Convence (C1)**. Está diseñado para servir como apoyo rápido y consulta durante las actividades y evaluaciones.
 
 ---
 
